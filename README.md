@@ -7,16 +7,16 @@ Netflix.
 
 ## 📝 Project Overview
 
-The analysis covers: - Loading and exploring the dataset\
-- Handling duplicate and missing values\
-- Performing query-based insights\
+The analysis covers: - Loading and exploring the dataset
+- Handling duplicate and missing values
+- Performing query-based insights
 - Visualizing patterns across categories like country, release year,
-rating, and more\
+rating, and more
 - Answering analytical questions using Python and Pandas
 
 ## 🧾 Dataset
 
-**File Used:** `Netflix Dataset.csv`\
+**File Used:** `Netflix Dataset.csv`
 Contains information about titles, directors, cast, countries, ratings,
 and descriptions of movies & TV shows available on Netflix.
 
